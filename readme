@@ -1,0 +1,58 @@
+{
+  "daxiangbanben": "2.5.8",
+  "daxiangneirong": {
+    "dizhi": "https://note.youdao.com/yws/api/personal/file/WEB5f0dadf45064c3985345f16323fe7c82?method=download&shareKey=2bc4f09b7d65e95f182fc7b1f6162035",
+    "msg": "青椒影视v2.5.8更新1.修复了影视大全，迷彩兔，猪大页，笨笨鸡网站更新失败请用网盘下载"
+  },
+  "qqQun": {
+    "qunNumber": "",
+    "qunKey": ""
+  },
+  "xianLu": {
+    "moRen": "micaitutuijian",
+    "isQiangZhiMoRen": false,
+    "benbenji": true,
+    "doubiekan": true,
+    "caomei": true,
+    "micaitutuijian": true,
+    "zdytj": true
+  },
+  "black": [
+      "下水道的美人鱼",
+      "下水道的美人鱼(禁片)",
+      "鸭王",
+      "色戒",
+      "鸭王2",
+      "下水道的美人鱼[禁片]",
+      "豚鼠系列之5：下水道的美人鱼",
+      "诱人岳母的秘密",
+      "善良的岳母(韩版)",
+      "朋友妈妈",
+      "下水道的美人鱼"
+    ]
+  ,
+  "tiaoGuo": {
+    "daXiao_boFang_tiaoGuo": 12,
+    "daXiao_boFang_yinYing": 8
+  },
+  "caomeiConfig": {
+    "versionName": "2.0.2",
+    "versionCode": 202,
+    "_1fengChi": true,
+    "_2dongGua": true,
+    "_3aiKanJu": true,
+    "_4eYu": true,
+    "micaitutuijianConfig": {
+      "versions_code": "139",
+      "url": "http://jk.xgrruyx.cn",
+      "appId": "1"
+    },
+    "benbenjiConfig": {
+      "houZhui": "?320100X2848437919PHDGBITAVPASST"
+    },
+    "zdytjConfig": {
+      "houZhui": "320100X2856199873PHDGBITAVPASST"
+    }
+  },
+  "fenXiang": "/VstavIVZruBe40FVfV9JAHXA9yGLRKDmVyxk48aUb8VIfSfBtE37IdTJLn2yJQGmWw9lwCRqZFFRpmZ+yFTt31oSdkdMjHO3XEzPM+v346hUT6nCaDudkzXSgdyMzDB"
+}
