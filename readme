@@ -1,12 +1,12 @@
 {
-  "daxiangbanben": "1.0.0",
+  "daxiangbanben": "1.1.0",
   "daxiangneirong": {
-    "dizhi": "https://d13.baidupan.com/083023bb/2020/08/30/02d5307c2977c72536aaadb67f41f4e5.apk?st=rJ07EUeXFLdEtINDKz_a2w&e=1598804423&b=VOMPigSJVbgH5lG_bALUGvwLmXelW8AKCVClYNFIlVj8_c&fi=28966183&pid=49-77-177-254&up=",
-    "msg": ""
+    "dizhi": "https://note.youdao.com/yws/api/personal/file/WEB3bb52e6413ab13b6ba4d325d0821e53f?method=download&shareKey=5bc57a22dc22517a405523e6183fbf4c",
+    "msg": "更新内容：\n1.新增官方QQ群，点【我】【加入官方qq群】\n2.增加实时更新热门影视功能"
   },
   "qqQun": {
-    "qunNumber": "",
-    "qunKey": ""
+    "qunNumber": "1130492256",
+    "qunKey": "Nh5RURoFVgrh0jE2Q96PLwHj2eihUFls"
   },
   "xianLu": {
     "moRen": "micaitutuijian",
@@ -18,19 +18,18 @@
     "zdytj": true
   },
   "black": [
-      "下水道的美人鱼",
-      "下水道的美人鱼(禁片)",
-      "鸭王",
-      "色戒",
-      "鸭王2",
-      "下水道的美人鱼[禁片]",
-      "豚鼠系列之5：下水道的美人鱼",
-      "诱人岳母的秘密",
-      "善良的岳母(韩版)",
-      "朋友妈妈",
-      "下水道的美人鱼"
-    ]
-  ,
+    "下水道的美人鱼",
+    "下水道的美人鱼(禁片)",
+    "鸭王",
+    "色戒",
+    "鸭王2",
+    "下水道的美人鱼[禁片]",
+    "豚鼠系列之5：下水道的美人鱼",
+    "诱人岳母的秘密",
+    "善良的岳母(韩版)",
+    "朋友妈妈",
+    "下水道的美人鱼"
+  ],
   "tiaoGuo": {
     "daXiao_boFang_tiaoGuo": 12,
     "daXiao_boFang_yinYing": 8
@@ -54,5 +53,53 @@
       "houZhui": "320100X2856199873PHDGBITAVPASST"
     }
   },
-  "fenXiang": "全网影视在线免费观看https://www.lanzous.com/hxys"
+  "dialog": {
+    "startDialog": {
+      "open": false,
+      "title": "",
+      "content": ""
+    }
+  },
+  "fenXiang": "全网影视在线免费观看https://wws.lanzous.com/hxys",
+  "mcttRecomment": {
+    "type": "时下热门",
+    "list": [
+      {
+        "vod_id": "148970",
+        "c_name": "三十而已",
+        "c_pic": "http://imgnangua.qcyy99.cn/upload/vod/2020-07/p2614081670.jpg",
+        "vod_douban_score": "6.9"
+      },
+      {
+        "vod_id": "149446",
+        "c_name": "八佰",
+        "c_pic": "http://imgnangua.qcyy99.cn/upload/vod/2020-08/p2615992304.jpg",
+        "vod_douban_score": "7.7"
+      },
+      {
+        "vod_id": "149658",
+        "c_name": "蓝军出击",
+        "c_pic": "http://imgnangua.qcyy99.cn/upload/vod/2020-09/p2619281830.jpg",
+        "vod_douban_score": "暂无"
+      },
+      {
+        "vod_id": "149566",
+        "c_name": "旗袍美探",
+        "c_pic": "http://imgnangua.qcyy99.cn/upload/vod/2020-08/p2618223701.jpg",
+        "vod_douban_score": "7.0"
+      },
+      {
+        "vod_id": "149549",
+        "c_name": "太行之脊",
+        "c_pic": "http://imgnangua.qcyy99.cn/upload/vod/2020-08/p2618463579.jpg",
+        "vod_douban_score": "7.7"
+      },
+      {
+        "vod_id": "148980",
+        "c_name": "漂亮书生",
+        "c_pic": "http://imgnangua.qcyy99.cn/upload/vod/2020-07/p2609069649.jpg",
+        "vod_douban_score": "暂无"
+      }
+    ]
+  }
 }
